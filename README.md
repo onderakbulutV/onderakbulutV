@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onderakbulutv&label=Profile%20views&color=0e75b6&style=flat" alt="onderakbulutv" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, NextJs, React Native, NodeJs**
+- 🌱 I’m currently working on **ReactJs, NextJs, React Native, NodeJs**
 
 - 📫 How to reach me **onderakbulut97@icloud.com**
 
